@@ -14,6 +14,7 @@ A repo containing papers in the field of Multirotor Control which I find really 
 - [Deep Drone reinforcement Learning](https://mdpi-res.com/d_attachment/electronics/electronics-10-00999/article_deploy/electronics-10-00999.pdf?version=1619079649)
 - [RL based Quad control](https://web.stanford.edu/class/aa228/reports/2019/final62.pdf)
 - [RL based Quad Control - 2 (Thesis ed.)](https://punk95.github.io/reports/undergraduate/Quadcopter_control_RL.pdf)
+- [RL Attitude tracker using GymFC](https://wfk.io/docs/gymfc.pdf)
 
 ## Youtube Channels/Websites
 

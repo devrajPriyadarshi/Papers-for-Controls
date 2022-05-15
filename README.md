@@ -1,5 +1,5 @@
 # Papers-for-Controls
-A repo containing papers in the field of control (and perception) which I find really interesting!
+A repo containing papers in the field of Multirotor Control which I find really interesting!
 
 - [Thrust Mixing, Saturation and Body-Rate Control](https://rpg.ifi.uzh.ch/docs/RAL17_Faessler.pdf)
 - [Coupled Perception and Action Problem.](https://rpg.ifi.uzh.ch/docs/IROS18_Falanga.pdf)

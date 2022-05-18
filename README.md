@@ -15,6 +15,7 @@ A repo containing papers in the field of Multirotor Control which I find really 
 - [RL based Quad control](https://web.stanford.edu/class/aa228/reports/2019/final62.pdf)
 - [RL based Quad Control - 2 (Thesis ed.)](https://punk95.github.io/reports/undergraduate/Quadcopter_control_RL.pdf)
 - [RL Attitude tracker using GymFC](https://wfk.io/docs/gymfc.pdf)
+- [Sim4CV, simulation platform for vision task with multirotors](https://arxiv.org/pdf/1708.05869.pdf)
 
 ## Youtube Channels/Websites
 
